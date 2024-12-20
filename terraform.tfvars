@@ -1,0 +1,6 @@
+region              = "ap-south-1"
+iam_role_name       = "bankgpt-iam-role"
+amplify_app_name    = "bankgpt-amplify-app"
+beanstalk_app_name  = "bankgpt-beanstalk-app"
+vpc_cidr            = "10.0.0.0/16"
+db_name             = "bankgptdb"
