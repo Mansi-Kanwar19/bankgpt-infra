@@ -10,7 +10,7 @@ module "iam" {
 module "amplify" {
   source          = "./modules/amplify"
   amplify_app_name = var.amplify_app_name
-  amplify_oauth_token = "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"
+  amplify_oauth_token = "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"
   repository_url   = "https://github.com/Mansi-Kanwar19/bankgpt-infra.git"
 }
 
