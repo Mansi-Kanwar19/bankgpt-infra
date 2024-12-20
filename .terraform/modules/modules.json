@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"amplify","Source":"./modules/amplify","Dir":"modules/amplify"},{"Key":"beanstalk","Source":"./modules/beanstalk","Dir":"modules/beanstalk"},{"Key":"iam","Source":"./modules/iam","Dir":"modules/iam"},{"Key":"rds","Source":"./modules/rds","Dir":"modules/rds"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
